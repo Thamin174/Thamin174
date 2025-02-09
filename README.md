@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cloud Technology (CGP,OCI, Azure and AWS), these things are crazy.
 - 💞️ I’m looking to collaborate on Dotnet Core, Angualr, Serverless, IAM.
 - ⚡ Fun fact: I am a gamer and a foodie!
-- 📫 How to reach me: I'm [on Linkedin (@thamin-naik-ab8754aa)](https://www.linkedin.com/in/thamin-naik).
+- 📫 How to reach me: I'm [on Linkedin (@thamin-naik)](https://www.linkedin.com/in/thamin-naik).
 
 ## 🧰 Languages and Tools:
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
